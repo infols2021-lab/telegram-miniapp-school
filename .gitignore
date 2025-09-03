@@ -9,4 +9,4 @@ venv/
 .env
 .vscode/
 *.sqlite3
-.DS_Store" > .gitignore
+.DS_Store" > .gitignore.env
